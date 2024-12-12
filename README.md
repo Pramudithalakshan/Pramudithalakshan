@@ -2,23 +2,23 @@ Pramuditha lakshan's GitHub 👨‍💻
 
 Hi! I'm Pramuditha Lakshan, a software engineering undergraduate passionate about coding, learning, and building.
 
-About Me
+📖 About Me
 
-🎓 Software Engineering Student.
+🎓 Education
+  Software Engineering Student
 
-💻 Learning: Java, PHP, HTML, CSS, Next.js, React.js, Node.js, Python.
+💻 Skills in Progress
+  Java, PHP, HTML, CSS, Next.js, React.js, Node.js, Python
+  
+🚀 Goals
+   Aspiring full-stack developer
 
-🚀 Aspiring full-stack developer.
 
-Tech Skills
+🌐 Let's Connect
 
-Java, PHP, CSS, Mysql, HTML.
+GitHub - PramudithaLakshan
+Email - pramuditha@example.com
 
-Let's Connect
 
-GitHub: PramudithaLakshan
-
-Email: pramudithalakshan00@example.com
-
-Thank you for stopping by!
+Thank you for stopping by! 😊
 
