@@ -1,89 +1,24 @@
-Welcome to My GitHub Profile! 👨‍💻
+Pramuditha lakshan's GitHub 👨‍💻
 
-Hello! I'm Pramuditha Lakshan, a passionate and enthusiastic Software Engineering undergraduate with a keen interest in developing innovative solutions and learning cutting-edge technologies.
+Hi! I'm Pramuditha Lakshan, a software engineering undergraduate passionate about coding, learning, and building.
 
-🌟 About Me
+About Me
 
-🎓 Undergraduate in Software Engineering.
+🎓 Software Engineering Student.
 
-💻 Learning: Java, PHP, HTML, CSS, Next.js, React.js, Node.js, and Python.
+💻 Learning: Java, PHP, HTML, CSS, Next.js, React.js, Node.js, Python.
 
-🚀 Aspiring to become a full-stack developer and a tech innovator.
+🚀 Aspiring full-stack developer.
 
-🛠️ Currently honing my skills in backend development and modern front-end frameworks.
+Tech Skills
 
-📚 Always eager to explore new technologies and solve challenging problems.
+Java, PHP, CSS, Mysql, HTML.
 
-🧰 Tech Stack
+Let's Connect
 
-Programming Languages
+GitHub: PramudithaLakshan
 
+Email: pramudithalakshan00@example.com
 
-
-
-
-Frontend Development
-
-
-
-
-
-
-Backend Development
-
-
-
-🏆 My Goals
-
-Master Full-Stack Development: Combine backend and frontend skills to create seamless applications.
-
-Contribute to Open Source: Give back to the community by contributing to impactful projects.
-
-Build Personal Projects: Use my skills to create unique and functional applications.
-
-Expand My Knowledge: Continuously learn and adopt new technologies to stay ahead in the field.
-
-🌐 Let's Connect!
-
-🌟 GitHub: PramudithaLakshan
-
-💼 LinkedIn: Pramuditha Lakshan (Add your LinkedIn link)
-
-🐦 Twitter: @pramuditha (Optional Twitter handle)
-
-📧 Email: pramuditha@example.com (Replace with your email)
-
-📊 GitHub Stats
-
-
-
-
-
-🛠️ Featured Projects
-
-Project Name
-
-Description
-
-Technologies Used
-
-Portfolio Website
-
-A personal portfolio to showcase my projects and skills.
-
-HTML, CSS, React.js
-
-E-Commerce Backend
-
-A scalable backend for an e-commerce platform.
-
-Node.js, Express, MongoDB
-
-Weather App
-
-A simple app to fetch and display weather information.
-
-Python, Flask
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me. 😊
+Thank you for stopping by!
 
