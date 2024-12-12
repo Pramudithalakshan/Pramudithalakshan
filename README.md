@@ -17,7 +17,7 @@ Hi! I'm Pramuditha Lakshan, a software engineering undergraduate passionate abou
 🌐 Let's Connect
 
 GitHub - PramudithaLakshan
-Email - pramuditha@example.com
+Email - pramudithalakshan00@gmail.com
 
 
 Thank you for stopping by! 😊
