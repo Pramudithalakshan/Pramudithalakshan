@@ -1,5 +1,6 @@
 <div align="center">
-<img src=" 1) -  "https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="700" height="400" alt="MasterHead">
+<img src=" 1) -  https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="700" height="400" alt="MasterHead">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -19,15 +20,15 @@
 
 #### 👩🏻‍💻 Languages I Code In and Currently Learning
 
-![My Skills](https://skillicons.dev/icons?i=html,js,CSS,mysql&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,MySQL,java,php&perline=9)
 
 
 #### 🧱 Frameworks and Libraries Currently Using & Learning
-![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next&perline=9)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,nodejs,express,ts&perline=9)
 
 
 #### 🔧 IDEs & Tools Currently Using & Learning
-![My Skills](https://skillicons.dev/icons?i=vscode,unity,blender,godot&perline=9)
+![My Skills](https://skillicons.dev/icons?i=vscode,unity,blender,godot,idea,kali,LinkedIn,postman&perline=9)
 
 
 #### 🕵🏻‍♀️ Database Using & Leaning
