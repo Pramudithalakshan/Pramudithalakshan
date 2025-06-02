@@ -87,5 +87,6 @@
 
 
 ### 🎮 Fun Elements
-![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![snake gif](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+
 
