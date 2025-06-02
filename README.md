@@ -21,7 +21,7 @@
 
 #### 👩🏻‍💻 Languages I Code In and Currently Learning
 
-![My Skills](https://skillicons.dev/icons?i=html,js,css,mysql,java,php&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,mysql,java,php,cs&perline=9)
 
 
 #### 🧱 Frameworks and Libraries Currently Using & Learning
@@ -29,7 +29,7 @@
 
 
 #### 🔧 IDEs & Tools Currently Using & Learning
-![My Skills](https://skillicons.dev/icons?i=vscode,unity,blender,godot,idea,kali,linkedin,postman&perline=9)
+![My Skills](https://skillicons.dev/icons?i=vscode,unity,blender,godot,idea,kali,linkedin,postman,docker,discord,github,git&perline=9)
 
 
 #### 🕵🏻‍♀️ Database Using & Leaning
