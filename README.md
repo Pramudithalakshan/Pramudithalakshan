@@ -87,4 +87,5 @@
 
 
 ### 🎮 Fun Elements
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
