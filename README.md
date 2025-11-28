@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" width="700" height="400" alt="MasterHead">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="700" height="400" alt="MasterHead">
 
 
 
@@ -19,26 +19,13 @@
 
 ### 🖥️ Tech Stack:
 
-#### 👩🏻‍💻 Languages I Code In and Currently Learning
+#### 👩🏻‍💻 Currently Learning
 
-![My Skills](https://skillicons.dev/icons?i=html,js,css,mysql,java,php,cs&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,mysql,java,php,cpp,mysql&perline=9)
 
 
 #### 🧱 Frameworks and Libraries Currently Using & Learning
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,nodejs,express,ts&perline=9)
-
-
-#### 🔧 IDEs & Tools Currently Using & Learning
-![My Skills](https://skillicons.dev/icons?i=vscode,unity,blender,godot,idea,kali,linkedin,postman,docker,discord,github,git&perline=9)
-
-
-#### 🕵🏻‍♀️ Database Using & Leaning
-![My Skills](https://skillicons.dev/icons?i=mysql&perline=9)
-
-
-
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
