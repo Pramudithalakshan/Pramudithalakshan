@@ -25,7 +25,7 @@
 
 
 #### 🧱 Frameworks and Libraries Currently Using & Learning
-![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,nodejs,express,ts&perline=9)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,ts&perline=9)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
