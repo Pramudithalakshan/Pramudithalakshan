@@ -57,13 +57,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
 
+## 🏅 Highlights
 
-## 🏆 Pramuditha Lakshan Achievements
-![](https://github-profile-trophy.vercel.app/?username=Pramudithalakshan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![Web](https://img.shields.io/badge/Web%20Development-Full%20Stack-blue)
+![REST](https://img.shields.io/badge/REST%20APIs-Building-green)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+![Learning](https://img.shields.io/badge/Learning-Continuous-success)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
-
-[![](https://visitcount.itsvg.in/api?id=Pramudithalakshan&icon=0&color=13)](https://visitcount.itsvg.in)
 
 
 
