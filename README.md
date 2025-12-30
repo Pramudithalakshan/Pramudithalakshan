@@ -43,11 +43,6 @@
 - 🔹 **Stars:** ![Stars](https://img.shields.io/github/stars/Pramudithalakshan?affiliations=OWNER%2CCOLLABORATOR)
 
 
-<!-- Languages centered below (no border) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramudithalakshan&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
 
