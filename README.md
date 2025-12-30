@@ -35,13 +35,13 @@
 
 <!-- Stats + Streak in one row (no borders) -->
 
- <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Pramudithalakshan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+## GitHub Overview
 
-  <img height="180em"
-       src="https://streak-stats.demolab.com/?user=Pramudithalakshan&theme=radical&hide_border=true"/>
-</p> 
+- 🔹 **Username:** Pramudithalakshan
+- 🔹 **Public Repositories:** ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Pramudithalakshan)
+- 🔹 **Followers:** ![Followers](https://img.shields.io/github/followers/Pramudithalakshan?label=Followers)
+- 🔹 **Stars:** ![Stars](https://img.shields.io/github/stars/Pramudithalakshan?affiliations=OWNER%2CCOLLABORATOR)
+
 
 <!-- Languages centered below (no border) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramudithalakshan&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
