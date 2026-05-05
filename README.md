@@ -8,7 +8,7 @@
 
 **Crafting scalable backend systems, interactive frontends, and intelligent tools.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pramudithalakshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pramuditha-lakshan/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info.pramudithalakshan@gmail.com)
 
 ---
