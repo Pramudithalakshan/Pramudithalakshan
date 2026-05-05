@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="700" height="400" alt="MasterHead">
-
-
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,71 +6,65 @@
   </a>
 </h1>
 
-</div>
+**Crafting scalable backend systems, interactive frontends, and intelligent tools.**
 
-- 👨‍💻 I'm currently learning **Coding**
-- 💬 Ask me about **Java Development**
-- 📫 How to reach me:  info.pramudithalakshan@gmail.com
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pramudithalakshan)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info.pramudithalakshan@gmail.com)
 
-
-### 🖥️ Tech Stack:
-
-#### 👩🏻‍💻 Currently Learning
-
-![My Skills](https://skillicons.dev/icons?i=html,js,css,mysql,java,php,cpp,mysql&perline=9)
-
-
-#### 🧱 Frameworks and Libraries Currently Using & Learning
-![My Skills](https://skillicons.dev/icons?i=bootstrap,ts&perline=9)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
-
-
-### 📊 Pramuditha Lakshan's GitHub Status
-<div align="center">
-
-<!-- Stats + Streak in one row (no borders) -->
-
-## GitHub Overview
-
-- 🔹 **Username:** Pramudithalakshan
-- 🔹 **Public Repositories:** ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Pramudithalakshan)
-- 🔹 **Followers:** ![Followers](https://img.shields.io/github/followers/Pramudithalakshan?label=Followers)
-- 🔹 **Stars:** ![Stars](https://img.shields.io/github/stars/Pramudithalakshan?affiliations=OWNER%2CCOLLABORATOR)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
-
-
-
-<!-- Activity Graph (no border in container) -->
-<div style="width: 100%; max-width: 500px;">
-  
-![My Contribution Heatmap 🔥](https://github-readme-activity-graph.vercel.app/graph?username=Pramudithalakshan&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=Pramuditha's%20Contribution%20Heatmap%20🔥&radius=10&area_color=BFDBFE)
+---
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
+### 👨🏻‍💻 About Me
 
-
-## 🏅 Highlights
-
-![Java](https://img.shields.io/badge/Java-Intermediate-orange)
-![Web](https://img.shields.io/badge/Web%20Development-Full%20Stack-blue)
-![REST](https://img.shields.io/badge/REST%20APIs-Building-green)
-![GitHub](https://img.shields.io/badge/GitHub-Active-black)
-![Learning](https://img.shields.io/badge/Learning-Continuous-success)
-
-
-
+- 🔭 I’m currently developing full-stack applications and AI-powered CLI tools.
+- 🌱 I’m currently refining my knowledge in **System Architecture, LLM integrations, and Competitive Programming**.
+- 💬 Ask me about **Java, Spring Boot, Node.js, and Algorithmic Logic**.
+- 📫 How to reach me: **info.pramudithalakshan@gmail.com**
 
 <br>
 
+### 🛠️ Tech Stack
 
+#### **Core Languages & Databases**
+![Core Skills](https://skillicons.dev/icons?i=java,js,nodejs,mysql,python&perline=10)
 
-  ### 🎮 Fun Elements
-![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)
+#### **Frameworks & Libraries**
+![Frameworks](https://skillicons.dev/icons?i=spring,angular,react&perline=10)
 
+<br>
 
+### 🚀 Featured Work & Interests
 
+- 💻 **diff-extractor:** Developing an AI-integrated Node.js CLI tool designed to analyze git changes and automate commit message generation.
+- ⚙️ **Full-Stack Integration:** Building end-to-end applications utilizing Spring Boot, React, and Angular, with integrated payment gateways and database architectures like Supabase.
+- 🧠 **Problem Solving:** Actively practicing algorithm optimization and data structure implementations.
+
+<br>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Pramudithalakshan&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=737373" alt="Pramuditha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramudithalakshan&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=737373" alt="Top Languages" width="48%" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramudithalakshan&bg_color=transparent&color=36BCF7&line=36BCF7&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Heatmap&radius=10&area_color=BFDBFE" alt="Activity Graph" width="100%" style="max-width: 800px;"/>
+
+</div>
+
+<br>
+
+### 🏅 Highlights
+
+![Java](https://img.shields.io/badge/Java-Proficient-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-Full_Stack-36BCF7?style=for-the-badge&logo=codeigniter&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-Architecture-4CAF50?style=for-the-badge&logo=json&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Integration-Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+<div align="center">
+  <i>Let's build something amazing together.</i>
+</div>
