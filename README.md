@@ -9,6 +9,7 @@
 **Crafting scalable backend systems, interactive frontends, and intelligent tools.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pramuditha-lakshan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/pramudithalakshan/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info.pramudithalakshan@gmail.com)
 
 ---
@@ -27,32 +28,42 @@
 ### 🛠️ Tech Stack
 
 #### **Core Languages & Databases**
-![Core Skills](https://skillicons.dev/icons?i=java,js,nodejs,mysql,python&perline=10)
+![Core Skills](https://skillicons.dev/icons?i=java,js,nodejs,mysql,python,dart&perline=10)
 
 #### **Frameworks & Libraries**
-![Frameworks](https://skillicons.dev/icons?i=spring,angular,react&perline=10)
+![Frameworks](https://skillicons.dev/icons?i=spring,angular,react,express,flutter&perline=10)
 
 <br>
 
-### 🚀 Featured Work & Interests
+###  Featured Work & Interests
 
-- 💻 **diff-extractor:** Developing an AI-integrated Node.js CLI tool designed to analyze git changes and automate commit message generation.
-- ⚙️ **Full-Stack Integration:** Building end-to-end applications utilizing Spring Boot, React, and Angular, with integrated payment gateways and database architectures like Supabase.
-- 🧠 **Problem Solving:** Actively practicing algorithm optimization and data structure implementations.
+- 💻 **diff-extractor-** Developing an AI-integrated Node.js CLI tool designed to analyze git changes and automate commit message generation.
+- ⚙️ **Full-Stack Integration-** Building end-to-end applications utilizing Spring Boot, React, and Angular, with integrated payment gateways and database architectures like Supabase.
+- 🧠 **Problem Solving-** Actively solving algorithmic problems and data structures in LeetCode.
 
 <br>
 
 ### 📊 GitHub Analytics
-
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Pramudithalakshan&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=737373" alt="Pramuditha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramudithalakshan&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=737373" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pramudithalakshan&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" alt="Pramuditha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramudithalakshan&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" width="48%" />
 
-  <br><br>
+  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramudithalakshan&bg_color=transparent&color=36BCF7&line=36BCF7&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Heatmap&radius=10&area_color=BFDBFE" alt="Activity Graph" width="100%" style="max-width: 800px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramudithalakshan&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="GitHub Streak" width="100%" />
 
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramudithalakshan&bg_color=0D1117&color=36BCF7&line=36BCF7&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Heatmap&radius=10&area_color=36BCF7" alt="Activity Graph" width="100%" />
+
+</div>
+
+<br>
+
+### 🧩 LeetCode Stats
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=pramudithalakshan&theme=dark" alt="LeetCode Stats" />
 </div>
 
 <br>
